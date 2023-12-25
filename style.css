@@ -107,7 +107,7 @@ ul{
 
 /* Top banner  */
 .top-banner{
-    background-image: url('/Assets/asset 30.png');
+    background-image: url('asset 30.png');
     background-color: #4fb3d4;
 }
 .banner-text{
@@ -179,7 +179,7 @@ header{
  /* feature section */
  .features-section{
     padding: 80px var(--padding-inline-section) 0;
-    background-image: url('/Assets/asset 32.svg');
+    background-image: url('asset 32.svg');
     background-repeat: no-repeat;
     background-position: center;
  }
@@ -242,20 +242,20 @@ header{
     position: relative;
     height: 300px;
     background-color: black;
-    background:linear-gradient(rgb(0, 0 , 0 ,0.1), rgb(0, 0 , 0 ,0.8)) ,url('/Assets/asset\ 35.jpeg');
+    background:linear-gradient(rgb(0, 0 , 0 ,0.1), rgb(0, 0 , 0 ,0.8)) ,url('asset\ 35.jpeg');
     background-size: cover;
 }
 .exmaple-card:hover{
     box-shadow: 0 0 10px #888;
 }
 .exmaple-card:nth-child(2){
-    background:linear-gradient(rgb(0, 0 , 0 ,0.1), rgb(0, 0 , 0 ,0.8)) ,url('/Assets/asset\ 34.jpeg');
+    background:linear-gradient(rgb(0, 0 , 0 ,0.1), rgb(0, 0 , 0 ,0.8)) ,url('asset\ 34.jpeg');
 }
 .exmaple-card:nth-child(3){
-    background:linear-gradient(rgb(0, 0 , 0 ,0.1), rgb(0, 0 , 0 ,0.8)) ,url('/Assets/asset\ 36.jpeg');
+    background:linear-gradient(rgb(0, 0 , 0 ,0.1), rgb(0, 0 , 0 ,0.8)) ,url('asset\ 36.jpeg');
 }
 .exmaple-card:nth-child(4){
-    background:linear-gradient(rgb(0, 0 , 0 ,0.1), rgb(0, 0 , 0 ,0.8)) ,url('/Assets/asset\ 37.jpeg');
+    background:linear-gradient(rgb(0, 0 , 0 ,0.1), rgb(0, 0 , 0 ,0.8)) ,url('asset\ 37.jpeg');
 }
 .card-text{
     position: absolute;
